@@ -6,7 +6,7 @@
 In the terminal
 ```
 
-$ cd urlshortner_microservice
+$ cd image_search_layer
 $ pip install -r requriements.txt
 $ python manage.py migrate
 $ python manage.py createsuperuser
